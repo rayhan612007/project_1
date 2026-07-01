@@ -1,5 +1,5 @@
 import React from 'react'
-import './Aboutpage.css'
+import './aboutpage.css'
 
 function Aboutpage ()  {
   return (
