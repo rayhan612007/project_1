@@ -10,7 +10,7 @@ function Aboutpage ()  {
             <div className='flex items-center md:items-start justify-center md:justify-start'>
                 <div class="profile-img" className='h-70 w-70 lg:w-80 lg:h-75 lg:mt-20 lg:shadow-2xl lg:shadow-purple-600 lg:rounded-4xl lg:border-4 lg:border-purple-600 rounded-full md:rounded-3xl md:mt-2
                 md:shadow-2xl md:shadow-purple-700 mb-10 overflow-hidden '>
-                    <img src="/image/manpic.jpg" alt="" />
+                    <img src="./image/manpic.jpg" alt="" />
                 </div>
 
             </div>
