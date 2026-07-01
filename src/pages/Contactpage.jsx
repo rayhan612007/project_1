@@ -41,13 +41,22 @@ const Contactpage = () => {
                     </div>
 
                     <div class="social-icons">
-                        <a href="#"><i class="fa-brands fa-github"></i></a>
+                        <a href="#">
+                            <img src="/image/facebook (1).png" alt=""/>                            
 
-                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                        </a>
 
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="#">
+                            <img src="/image/github (1).png" alt="" />
+                        </a>
 
-                        <a href="#"><i class="fa-solid fa-envelope"></i></a>
+                        <a href="#">
+                            <img src="/image/linkedin (1).png" alt="" />
+                        </a>
+
+                        <a href="#">
+                            <img src="/image/x.png" alt="" />
+                        </a>
                     </div>
                 </div>
 
